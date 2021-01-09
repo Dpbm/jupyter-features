@@ -12,26 +12,27 @@
     All demo codes will be in folders that will have the following tags:
 </h2>
 
-<h2 align="left">
+<p align="left">
 
-    📁 all --> codes that can be run on google colab, jupyter notebook and jupyter lab
+    📁 all --> codes that can be run on google colab, jupyter notebook 
+    and jupyter lab
 
-<h2>
+<p>
     
-<h2 align="left">
+<p align="left">
 
     📁 colab --> codes that can be run on google colab only
 
-</h2>
+</p>
 
-<h2 align="left">
+<p align="left">
 
     📁 lab --> codes that can be run on jupyter lab only
 
-</h2>
+</p>
 
-<h2 align="left">
+<p align="left">
 
     📁 notebook --> codes that can be run on jupyter notebook only
 
-</h2>
+</p>

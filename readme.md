@@ -7,32 +7,4 @@
 <h2 align="center">
     This repository can show interesting things about jupyter
 </h2>
-<br><br>
-<h2 align="left">
-    All demo codes will be in folders that will have the following tags:
-</h2>
 
-<p align="left">
-
-    📁 all --> codes that can be run on google colab, jupyter notebook 
-    and jupyter lab
-
-<p>
-    
-<p align="left">
-
-    📁 colab --> codes that can be run on google colab only
-
-</p>
-
-<p align="left">
-
-    📁 lab --> codes that can be run on jupyter lab only
-
-</p>
-
-<p align="left">
-
-    📁 notebook --> codes that can be run on jupyter notebook only
-
-</p>
